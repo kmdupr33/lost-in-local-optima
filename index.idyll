@@ -1,4 +1,4 @@
-[meta title:"Lost In Local Optima" description:"Short description of your project" /]
+[meta title:"Lost In Local Optima" description:"How life-benefitting, habit-forming apps wrong users" /]
 
 [Header
   fullWidth:true
@@ -131,7 +131,7 @@ This interactive essay is a clarification and defense of this argument.
   [/div]
 [/FullWidth]
 
-
+_This was interactive argument was made with [Idyll](https://idyll-lang.org/)_
 
 # Notes
 1. Nir Eyal, _Hooked: How to build habit-forming products_, 90. The “endowed progress effect” is also discussed in the Heath Brother’s _Switch: How to change things when change is hard_.
